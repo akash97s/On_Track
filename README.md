@@ -12,8 +12,19 @@ Works well on Web, Laptop and Mobile
 
 Lighthouse Report:
 
+<img src="ScreenShots/LR1.jpg">
+
+
+<img src="ScreenShots/LR2.jpg">
+
 Web:
+
+<img src="ScreenShots/WV.jpg">
 
 Mobile:
 
+<img src="ScreenShots/MV.jpg">
+
 Desktop:
+
+<img src="ScreenShots/DV.jpg">
