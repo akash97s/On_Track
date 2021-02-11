@@ -23,8 +23,8 @@ Web:
 
 Mobile:
 
-<img src="ScreenShots/MV.jpg">
+<img src="ScreenShots/MV.jpg" height="20%" width="20%">
 
 Desktop:
 
-<img src="ScreenShots/DV.jpg">
+<img src="ScreenShots/DV.png">
