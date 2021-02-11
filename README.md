@@ -5,8 +5,10 @@ A basic Progressive Web Application using Vanilla JS and Firebase to record even
 -> Cross_Platform
 -> Cloud data storage
 -> Hosted on Firebase
-
-Passed Lighthouse report
+-> Passed Lighthouse report
+-> Materialize 
+-> Responsive
+-> Firebase Firestore and Hosting 
 
 Works well on Web, Laptop and Mobile
 
